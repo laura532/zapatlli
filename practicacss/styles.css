@@ -1,0 +1,18 @@
+/* Fondos (background)
+
+background es un shorthand
+
+background: red;
+background-color: red;
+
+*/
+h1 {
+    background:rgb(89, 0, 255);
+}
+body{
+    background-color: yellow;
+    background-image: url(escudo.jpg);
+    background-repeat: no-repeat;
+
+}
+   
